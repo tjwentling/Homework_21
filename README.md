@@ -2,4 +2,4 @@
 
 Successful Compile and Deploy
 
-![](Deploy.png)
+![](deploy.png)
